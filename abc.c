@@ -1,4 +1,3 @@
 void main() {
-    printf("Hello");
-    printf("World");
+    printf("Hello AN");
 }
