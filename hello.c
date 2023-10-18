@@ -1,3 +1,3 @@
 void main() {
-    printf("Xin chao");
+    printf("Xin chao ban");
 }
